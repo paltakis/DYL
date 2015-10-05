@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DYL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Setting</string>
+    <string name="submit">Submit</string>
+    <string name="dateLabel">Today\'s date:</string>
+    <string name="sleepLabel">Hours slept:</string>
+    <string name="activityLabel">Aerobic activity:</string>
+    <string name="wineGlassesLabel">Wine glasses:</string>
+    <string name="mobile_services">Mobile Services </string>
+    <string name="add_textbox_hint">Add a ToDo item</string>
+    <string name="add_button_text">Add</string>
+    <string name="checkbox_text">Item Text</string>
+    <string-array name="sleep_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="wineglasses_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
