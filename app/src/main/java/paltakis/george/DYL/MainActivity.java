@@ -318,7 +318,6 @@ public class MainActivity extends Activity implements AdapterView.OnItemSelected
                                     mTextMinAerobicActivity.setText(Integer.toString(item.getMinAerobicActivity()));
                                     mSpinnerSleepHours.setSelection(item.getSleepHours());
                                     mSpinnerWineGlasses.setSelection(item.getWineGlasses());
-                                    System.out.println("Item exists in Mobile Services");
                                 }
                             } else { // If it doesn't exist, update UI with zero values
                                     mTextMinAerobicActivity.setText("0");
